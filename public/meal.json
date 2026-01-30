@@ -1,0 +1,524 @@
+[
+    {
+        "category": "Breakfast",
+        "title": "Chitol Maacher Kalia with Steamed Rice and Papor",
+        "image": "https://i.ibb.co/4Y2PBFs/Breakfast03.jpg",
+        "rating": 4.7,
+        "price": 7.99,
+        "admin_name": "Farhana Akter",
+        "description": "Spicy chitol fish curry, served with steamed rice and crispy papor.",
+        "ingredients": [
+            "Chitol Fish",
+            "Spices",
+            "Rice",
+            "Papor",
+            "Mustard Oil"
+        ],
+        "post_time": "2024-06-03T08:30:00Z",
+        "likes": 26
+    },
+    {
+        "category": "Lunch",
+        "title": "Mutton Tehari with Mixed Vegetable Bhaji and Salad",
+        "image": "https://i.ibb.co/W5XGLTT/Lunch03.jpg",
+        "rating": 4.9,
+        "price": 9.49,
+        "admin_name": "Anwar Hossain",
+        "description": "Flavored rice with tender mutton pieces, served with mixed vegetable bhaji and salad.",
+        "ingredients": [
+            "Mutton",
+            "Rice",
+            "Mixed Vegetables",
+            "Salad Greens",
+            "Spices"
+        ],
+        "post_time": "2024-06-03T12:00:00Z",
+        "likes": 23
+    },
+    {
+        "category": "Dinner",
+        "title": "Prawn Bhuna with Basmati Rice and Salad",
+        "image": "https://i.ibb.co/xSHML8d/Dinner03.jpg",
+        "rating": 4.8,
+        "price": 15.99,
+        "admin_name": "Nadia Ahmed",
+        "description": "Spicy prawn curry, served with fragrant basmati rice and fresh salad.",
+        "ingredients": [
+            "Prawns",
+            "Rice",
+            "Salad Greens",
+            "Spices",
+            "Mustard Oil"
+        ],
+        "post_time": "2024-06-03T19:00:00Z",
+        "likes": 36
+    },
+    {
+        "category": "Breakfast",
+        "title": "Mughlai Paratha with Spicy Chicken Curry and Salad",
+        "image": "https://i.ibb.co/NtqSNS5/Breakfast04.png",
+        "rating": 4.7,
+        "price": 8.99,
+        "admin_name": "Ziaul Haque",
+        "description": "Stuffed paratha with minced meat and egg, served with spicy chicken curry and fresh salad.",
+        "ingredients": [
+            "Paratha Dough",
+            "Minced Meat",
+            "Egg",
+            "Chicken",
+            "Salad Greens"
+        ],
+        "post_time": "2024-06-04T08:30:00Z",
+        "likes": 20
+    },
+    {
+        "category": "Lunch",
+        "title": "Shorshe Bata Maach with Steamed Rice and Saag",
+        "image": "https://i.ibb.co/t8YGJY9/Lunch04.jpg",
+        "rating": 4.6,
+        "price": 11.99,
+        "admin_name": "Razia Khan",
+        "description": "Fish cooked in mustard paste, served with steamed rice and spinach saag.",
+        "ingredients": [
+            "Fish",
+            "Mustard Paste",
+            "Rice",
+            "Spinach",
+            "Spices"
+        ],
+        "post_time": "2024-06-04T12:00:00Z",
+        "likes": 29
+    },
+    {
+        "category": "Dinner",
+        "title": "Mutton Kacchi Biryani with Raita and Salad",
+        "image": "https://i.ibb.co/CndV3qM/Dinner04.jpg",
+        "rating": 4.9,
+        "price": 16.99,
+        "admin_name": "Kamrul Hasan",
+        "description": "Tender mutton marinated in spices, layered with fragrant basmati rice, served with raita and salad.",
+        "ingredients": [
+            "Mutton",
+            "Basmati Rice",
+            "Yogurt",
+            "Spices",
+            "Salad Greens"
+        ],
+        "post_time": "2024-06-04T19:00:00Z",
+        "likes": 15
+    },
+    {
+        "category": "Breakfast",
+        "title": "Sobji Polao with Chicken Curry and Boiled Egg",
+        "image": "https://i.ibb.co/SJV5b0k/Breakfast05.jpg",
+        "rating": 4.4,
+        "price": 7.49,
+        "admin_name": "Rehana Akter",
+        "description": "Vegetable pilaf cooked with aromatic spices, served with chicken curry and a boiled egg.",
+        "ingredients": [
+            "Rice",
+            "Mixed Vegetables",
+            "Chicken",
+            "Egg",
+            "Spices"
+        ],
+        "post_time": "2024-06-05T08:30:00Z",
+        "likes": 19
+    },
+    {
+        "category": "Lunch",
+        "title": "Beef Bhuna with Steamed Rice and Mixed Vegetable Bhaji",
+        "image": "https://i.ibb.co/TtNYtZZ/Lunch05.jpg",
+        "rating": 4.7,
+        "price": 13.49,
+        "admin_name": "Rahima Khan",
+        "description": "Spicy beef curry served with steamed rice and a side of mixed vegetable bhaji.",
+        "ingredients": [
+            "Beef",
+            "Rice",
+            "Mixed Vegetables",
+            "Spices"
+        ],
+        "post_time": "2024-06-05T12:00:00Z",
+        "likes": 17
+    },
+    {
+        "category": "Dinner",
+        "title": "Prawn Malai Curry with Basmati Rice and Green Salad",
+        "image": "https://i.ibb.co/KjqZ6wF/Dinner05.jpg",
+        "rating": 4.8,
+        "price": 17.99,
+        "admin_name": "Sadia Rahman",
+        "description": "Creamy prawn curry cooked with coconut milk, served with fragrant basmati rice and a fresh green salad.",
+        "ingredients": [
+            "Prawns",
+            "Coconut Milk",
+            "Basmati Rice",
+            "Salad Greens",
+            "Spices"
+        ],
+        "post_time": "2024-06-05T19:00:00Z",
+        "likes": 14
+    },
+    {
+        "category": "Breakfast",
+        "title": "Khichuri with Beguni and Labra Tarkari",
+        "image": "https://i.ibb.co/yY3fh0R/Breakfast06.jpg",
+        "rating": 4.6,
+        "price": 6.99,
+        "admin_name": "Nishat Tasnim",
+        "description": "Rice and lentil khichuri served with crispy eggplant fritters (beguni) and mixed vegetable curry (labra tarkari).",
+        "ingredients": [
+            "Rice",
+            "Lentils",
+            "Eggplant",
+            "Mixed Vegetables",
+            "Spices"
+        ],
+        "post_time": "2024-06-06T08:30:00Z",
+        "likes": 13
+    },
+    {
+        "category": "Lunch",
+        "title": "Dhakai Biryani with Chicken Chaap and Salad",
+        "image": "https://i.ibb.co/DthmX54/Lunch06.jpg",
+        "rating": 4.9,
+        "price": 14.99,
+        "admin_name": "Raisa Khan",
+        "description": "Classic Dhaka-style biryani served with spicy chicken chaap and fresh salad.",
+        "ingredients": [
+            "Basmati Rice",
+            "Chicken",
+            "Spices",
+            "Salad Greens"
+        ],
+        "post_time": "2024-06-06T12:00:00Z",
+        "likes": 11
+    },
+    {
+        "category": "Dinner",
+        "title": "Chicken Rezala with Butter Naan and Green Salad",
+        "image": "https://i.ibb.co/MZ5GPpC/Dinner06.jpg",
+        "rating": 4.7,
+        "price": 16.49,
+        "admin_name": "Farzana Rahman",
+        "description": "Creamy chicken curry cooked in a yogurt-based sauce, served with butter naan and a fresh green salad.",
+        "ingredients": [
+            "Chicken",
+            "Yog"
+        ],
+        "post_time": "2024-06-06T19:00:00Z",
+        "likes": 28
+    },
+    {
+        "category": "Breakfast",
+        "title": "Panta Bhat with Hilsha Fish Curry and Green Chilies",
+        "image": "https://i.ibb.co/BTrGMMn/Breakfast07.jpg",
+        "rating": 4.8,
+        "price": 9.99,
+        "admin_name": "Anwar Hossain",
+        "description": "A traditional Bengali breakfast dish of fermented rice with spicy Hilsha fish curry and green chilies.",
+        "ingredients": [
+            "Panta Bhat (Fermented Rice)",
+            "Hilsha Fish",
+            "Green Chilies",
+            "Mustard Oil",
+            "Spices"
+        ],
+        "post_time": "2024-06-07T08:30:00Z",
+        "likes": 16
+    },
+    {
+        "category": "Lunch",
+        "title": "Chingri Malai Curry with Basmati Rice and Salad",
+        "image": "https://i.ibb.co/26pSJMK/Lunch07.jpg",
+        "rating": 4.7,
+        "price": 15.99,
+        "admin_name": "Samiul Islam",
+        "description": "Creamy prawn curry cooked with coconut milk, served with fragrant basmati rice and a side salad.",
+        "ingredients": [
+            "Prawns",
+            "Coconut Milk",
+            "Basmati Rice",
+            "Salad Greens",
+            "Spices"
+        ],
+        "post_time": "2024-06-07T12:00:00Z",
+        "likes": 19
+    },
+    {
+        "category": "Dinner",
+        "title": "Beef Kala Bhuna with Polao Rice and Mixed Salad",
+        "image": "https://i.ibb.co/TgbJtR9/Dinner07.jpg",
+        "rating": 4.9,
+        "price": 18.99,
+        "admin_name": "Tahmina Akter",
+        "description": "Spicy beef curry slow-cooked with aromatic spices, served with fragrant polao rice and a fresh mixed salad.",
+        "ingredients": [
+            "Beef",
+            "Rice",
+            "Salad Greens",
+            "Spices"
+        ],
+        "post_time": "2024-06-07T19:00:00Z",
+        "likes": 23
+    },
+    {
+        "category": "Breakfast",
+        "title": "Narkel Naru with Chai",
+        "image": "https://i.ibb.co/y8pW81z/Breakfast08.jpg",
+        "rating": 4.5,
+        "price": 4.99,
+        "admin_name": "Anisur Rahman",
+        "description": "Coconut and jaggery balls (narkel naru) served with hot tea (chai). A popular Bengali breakfast or snack option.",
+        "ingredients": [
+            "Coconut",
+            "Jaggery",
+            "Tea Leaves",
+            "Water"
+        ],
+        "post_time": "2024-06-08T08:30:00Z",
+        "likes": 17
+    },
+    {
+        "category": "Lunch",
+        "title": "Pabda Macher Jhol with Steamed Rice and Bhaja",
+        "image": "https://i.ibb.co/f90m3L3/Lunch08.jpg",
+        "rating": 4.6,
+        "price": 12.99,
+        "admin_name": "Faria Akter",
+        "description": "Light fish curry (pabda macher jhol) served with steamed rice and crispy bhaja (fried vegetables).",
+        "ingredients": [
+            "Pabda Fish",
+            "Rice",
+            "Vegetables",
+            "Spices"
+        ],
+        "post_time": "2024-06-08T12:00:00Z",
+        "likes": 15
+    },
+    {
+        "category": "Dinner",
+        "title": "Chicken Chaanp with Tandoori Roti and Kachumber Salad",
+        "image": "https://i.ibb.co/frjHkHg/Dinner08.jpg",
+        "rating": 4.8,
+        "price": 17.49,
+        "admin_name": "Farhan Kabir",
+        "description": "Spicy grilled chicken chaanp served with tandoori roti and a fresh kachumber salad.",
+        "ingredients": [
+            "Chicken",
+            "Tandoori Roti",
+            "Salad Greens",
+            "Spices"
+        ],
+        "post_time": "2024-06-08T19:00:00Z",
+        "likes": 24
+    },
+    {
+        "category": "Breakfast",
+        "title": "Beguni with Khichuri and Achar",
+        "image": "https://i.ibb.co/bm2Fmrt/Breakfast09.jpg",
+        "rating": 4.4,
+        "price": 6.49,
+        "admin_name": "Kamal Hossain",
+        "description": "Crispy eggplant fritters (beguni) served with khichuri and spicy pickle (achar). A popular breakfast combination in Bangladesh.",
+        "ingredients": [
+            "Eggplant",
+            "Lentils",
+            "Rice",
+            "Pickles",
+            "Spices"
+        ],
+        "post_time": "2024-06-09T08:30:00Z",
+        "likes": 25
+    },
+    {
+        "category": "Lunch",
+        "title": "Hilsa Bhapa with Steamed Rice and Bharta",
+        "image": "https://i.ibb.co/JrqN6d2/Lunch09.jpg",
+        "rating": 4.8,
+        "price": 18.49,
+        "admin_name": "Sakina Khan",
+        "description": "Steamed Hilsa fish (bhapa) marinated in mustard paste, served with steamed rice and mashed vegetable bharta.",
+        "ingredients": [
+            "Hilsa Fish",
+            "Mustard Paste",
+            "Rice",
+            "Vegetable Bharta",
+            "Spices"
+        ],
+        "post_time": "2024-06-09T12:00:00Z",
+        "likes": 26
+    },
+    {
+        "category": "Dinner",
+        "title": "Chicken Korma with Naan and Cucumber Raita",
+        "image": "https://i.ibb.co/rfPyZ0y/Dinner09.jpg",
+        "rating": 4.8,
+        "post_time": "2024-06-09T19:00:00Z",
+        "likes": 28
+    },
+    {
+        "category": "Breakfast",
+        "title": "Shakshuka with Toasted Bread",
+        "image": "https://i.ibb.co/4RkdnGx/Breakfast10.jpg",
+        "rating": 4.6,
+        "price": 7.99,
+        "admin_name": "Farzana Akter",
+        "description": "Eggs poached in a spicy tomato and bell pepper sauce, served with toasted bread. A flavorful and hearty breakfast.",
+        "ingredients": [
+            "Eggs",
+            "Tomatoes",
+            "Bell Peppers",
+            "Spices",
+            "Bread"
+        ],
+        "post_time": "2024-06-10T08:30:00Z",
+        "likes": 30
+    },
+    {
+        "category": "Lunch",
+        "title": "Beef Rezala with Garlic Naan and Kachumber Salad",
+        "image": "https://i.ibb.co/1RHTqWs/Lunch10.jpg",
+        "rating": 4.7,
+        "price": 16.99,
+        "admin_name": "Jannatul Ferdous",
+        "description": "Tender beef cooked in a creamy yogurt-based gravy (rezala), served with garlic naan and a refreshing kachumber salad.",
+        "ingredients": [
+            "Beef",
+            "Yogurt",
+            "Garlic Naan",
+            "Salad Greens",
+            "Spices"
+        ],
+        "post_time": "2024-06-10T12:00:00Z",
+        "likes": 21
+    },
+    {
+        "category": "Dinner",
+        "title": "Prawn Malai Curry with Steamed Rice and Papadum",
+        "image": "https://i.ibb.co/6FxLqWP/Dinner10.jpg",
+        "rating": 4.9,
+        "price": 19.99,
+        "admin_name": "Rahim Ali",
+        "description": "Creamy prawn curry cooked with coconut milk, served with steamed rice and crispy papadum.",
+        "ingredients": [
+            "Prawns",
+            "Coconut Milk",
+            "Rice",
+            "Papadum",
+            "Spices"
+        ],
+        "post_time": "2024-06-10T19:00:00Z",
+        "likes": 18
+    },
+    {
+        "category": "Breakfast",
+        "title": "Classic Bangladeshi Breakfast: Panta Bhat, Fried Hilsa Fish, and Green Chilies",
+        "image": "https://i.ibb.co/zHM61Gc/Breakfast01.jpg",
+        "rating": 4.5,
+        "price": 6.99,
+        "admin_name": "Rahim Ali",
+        "description": "A traditional morning meal with fermented rice, fried hilsa fish, and spicy green chilies.",
+        "ingredients": [
+            "Panta Bhat (Fermented Rice)",
+            "Hilsa Fish",
+            "Green Chilies",
+            "Mustard Oil",
+            "Salt"
+        ],
+        "post_time": "2024-06-01T08:30:00Z",
+        "likes": 25
+    
+    },
+    {
+        "category": "Lunch",
+        "title": "Chicken Khichuri with Bhuna Khichuri and Mixed Vegetable Bhaji",
+        "image": "https://i.ibb.co/WxgXtDx/Lunch01.jpg",
+        "rating": 4.8,
+        "price": 8.99,
+        "admin_name": "Fatima Begum",
+        "description": "A wholesome lunch combination of rice and lentil khichuri, spicy chicken curry, and mixed vegetable bhaji.",
+        "ingredients": [
+            "Rice",
+            "Lentils",
+            "Chicken",
+            "Mixed Vegetables",
+            "Spices"
+        ],
+        "post_time": "2024-06-01T12:00:00Z",
+        "likes": 20
+    },
+    {
+        "category": "Dinner",
+        "title": "Beef Tehari with Aloo Bhaji and Salad",
+        "image": "https://i.ibb.co/1fDvXHW/Dinner01.jpg",
+        "rating": 4.7,
+        "price": 10.99,
+        "admin_name": "Nurul Islam",
+        "description": "Spiced beef with fragrant rice, served with potato bhaji and fresh salad on the side.",
+        "ingredients": [
+            "Beef",
+            "Rice",
+            "Potatoes",
+            "Salad Greens",
+            "Spices"
+        ],
+        "post_time": "2024-06-01T19:00:00Z",
+        "likes": 18
+    },
+    {
+        "category": "Breakfast",
+        "title": "Chira Polao with Aloo Bharta and Boiled Egg",
+        "image": "https://i.ibb.co/YLLMXQv/Breakfast02.jpg",
+        "rating": 4.3,
+        "price": 5.49,
+        "admin_name": "Nazrul Islam",
+        "description": "Flattened rice cooked with fragrant spices, served with mashed potatoes and a boiled egg.",
+        "ingredients": [
+            "Chira (Flattened Rice)",
+            "Potatoes",
+            "Egg",
+            "Mustard Oil",
+            "Spices"
+        ],
+        "post_time": "2024-06-02T08:30:00Z",
+        "likes": 21
+    },
+    {
+        "category": "Lunch",
+        "title": "Shorshe Ilish with Steamed Rice and Vorta",
+        "image": "https://i.ibb.co/Z1hhMBk/Lunch02.jpg",
+        "rating": 4.6,
+        "price": 12.49,
+        "admin_name": "Sultana Begum",
+        "description": "Hilsa fish cooked in mustard sauce, served with steamed rice and mashed vegetables.",
+        "ingredients": [
+            "Hilsa Fish",
+            "Mustard Paste",
+            "Rice",
+            "Mashed Vegetables",
+            "Spices"
+        ],
+        "post_time": "2024-06-02T12:00:00Z",
+        "likes": 14
+    },
+    {
+        "category": "Dinner",
+        "title": "Beef Bhuna Khichuri with Salad and Papadum",
+        "image": "https://i.ibb.co/tXmSrzC/Dinner02.jpg",
+        "rating": 4.8,
+        "price": 13.99,
+        "admin_name": "Jahangir Alam",
+        "description": "Spiced beef and lentil khichuri, served with fresh salad and crispy papadum.",
+        "ingredients": [
+            "Beef",
+            "Lentils",
+            "Rice",
+            "Salad Greens",
+            "Papadum"
+        ],
+        "post_time": "2024-06-02T19:00:00Z",
+        "likes": 15
+    }
+]
